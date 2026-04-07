@@ -59,7 +59,7 @@ The chatbot retrieves relevant information from documents and generates accurate
 ## Screenshots
 
 ### 🔹 Flowise Workflow
-![Workflow Configuration](flowise.png.jpeg)
+![Workflow Configuration](flowise.png)
 
 ### 🔹 Chatbot Interaction
 ![Chat Output 1](output1.png.jpeg)
