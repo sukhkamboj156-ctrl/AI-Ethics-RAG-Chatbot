@@ -1,4 +1,4 @@
-# AI Ethics RAG Chatbot 🤖
+# AI Ethics RAG Chatbot 
 
 ## Project Overview
 This project is an AI-powered Retrieval-Augmented Generation (RAG) chatbot built using Flowise. It is designed to answer questions based on documents related to Artificial Intelligence Ethics.
